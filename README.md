@@ -18,5 +18,5 @@
 
 ## Refferences
 
-1. [Using middleware](https://expressjs.com/en/guide/using-middleware.html)
-2. [Serving static files in Express](https://expressjs.com/en/starter/static-files.html)
+1 [Using middleware](https://expressjs.com/en/guide/using-middleware.html)
+2 [Serving static files in Express](https://expressjs.com/en/starter/static-files.html)
